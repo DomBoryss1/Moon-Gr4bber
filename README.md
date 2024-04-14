@@ -90,9 +90,7 @@
 </div>
 
 
- ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=DomBoryss1/Moon-Gr4bber&type=Date)](https://star-history.com/#DomBoryss1/Moon-Gr4bber&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Qutel265/Moon-Gr4bber&type=Date)](https://star-history.com/#Qutel265/Moon-Gr4bber&Date)
  
 
 
