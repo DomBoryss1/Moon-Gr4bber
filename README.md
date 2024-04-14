@@ -1,4 +1,4 @@
-<h1 align="center"> Blank Gr4bber </h1> 
+<h1 align="center"> Moon Gr4bber </h1> 
 <p align= "center"> <kbd> <img  src="https://github.com/DomBoryss1/Moon-Gr4bber/blob/9ccffc54b56eff28f490b9cc6a2c43fbdbc56545/img/moon.png?raw=true"width="420"> </kbd><br><br>
 
 # 📁 [𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱]
