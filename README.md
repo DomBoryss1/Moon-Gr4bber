@@ -100,7 +100,3 @@
                                                       ⚠️ Disclaimer
 
 - This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use, RUN AT YOUR OWN RISK!!! <bold>Educational purpose only!</bold>
-
-                                                      🪪 License
-
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
