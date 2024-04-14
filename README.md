@@ -88,10 +88,12 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/DomBoryss1/Moon-Gr4bber/blob/main/img/MoonGr4bber2.png?raw=true"></img> 
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/DomBoryss1/Moon-Gr4bber/blob/main/img/MoonGr4bber3.png?raw=true"></img>    
 </div>
- 
- 
 
 
+ ## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DomBoryss1/Moon-Gr4bber&type=Date)](https://star-history.com/#DomBoryss1/Moon-Gr4bber&Date)
+ 
 
 
                                                       ⚠️ Disclaimer
